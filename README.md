@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @romelais
 - 👀 I’m interested in unity and godot
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
+
+
+
+
 
 <!---
 romelais/romelais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
